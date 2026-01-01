@@ -1,0 +1,11 @@
+
+SMART CONTRACT SECURITY REPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Re-Entrancy Risk  : SAFE
+Overflow Risk    : SAFE
+Front-Running    : LOW
+
+Recommendation:
+✔ Use Solidity ^0.8.0
+✔ Follow Checks-Effects-Interactions
+✔ Avoid public price-based logic
